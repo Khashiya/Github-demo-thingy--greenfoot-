@@ -16,5 +16,6 @@ public class Wombat extends Actor
     {
         // Add your action code here.
         move(5);
+        move(5);
     }
 }
